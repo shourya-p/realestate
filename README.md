@@ -1,1 +1,1 @@
-# realestate
+Developed a decentralized real estate application using Solidity for smart contract development, Ethereum for blockchain integration, Hardhat for testing and deployment, and React for user interface, enabling secure and transparent property transactions.
